@@ -1,6 +1,6 @@
 This repo contains my all example projects about JavaFX.
 
-You can download it each repo independently and run it on your IDE. Or you can create fully jar by running the command `mvn clean install`. After running the mave command look at the folder called **shade** in that folder you can the JavaFX project with `java -jar {name}.jar`
+You can download it each repo independently and run it on your IDE. Or you can create fully jar by running the command `mvn clean install`. After running the maven command look at the folder called **shade** in the project structure then you can run the JavaFX project with `java -jar {name}.jar`
 
 ### random-card-dealt
 
