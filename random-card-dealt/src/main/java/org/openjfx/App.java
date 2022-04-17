@@ -66,7 +66,7 @@ public class App extends Application {
             canvasDestinationXCoordinate = SPACE_BETWEEN_EACH_RANDOM_CARD + ( (CARD_WIDTH + SPACE_BETWEEN_EACH_RANDOM_CARD) * randomDeal);  // 8
             canvasDestinationYCoordinate = 20;  // 8
             graphicsContext.drawImage(cardImage, imageSourceXCoordinate, imageSourceYCoordinate, imageSourceWidth, imageSourceHeight,
-                    canvasDestinationXCoordinate, canvasDestinationYCoordinate, CARD_WIDTH, CARD_HEIGHT ); // 10
+                    canvasDestinationXCoordinate, canvasDestinationYCoordinate, CARD_WIDTH, CARD_HEIGHT ); // 9
         }
         System.out.println("------");
 
